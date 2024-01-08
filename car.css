@@ -1,0 +1,121 @@
+
+.car-container
+{
+  display: flex;
+  position: relative;
+  gap: 200px;
+  margin: 20px;
+  border-style: solid;
+  padding: 25px;
+}
+.Dhanu
+{
+  font-size: 25px; 
+   
+}
+#text
+{
+width: 250px;
+height: 20px;
+}
+#cars
+{
+width: 250px;
+height: 25px;
+
+}
+#Toyota
+{
+width: 250px;
+height: 25px;
+
+}
+.fortuner
+{
+  height:50%;
+  width:100%;
+  transition: 1s;;
+}
+.fortuner:hover{
+  scale: 1.1;
+}
+.footer{
+
+  padding: 10px;
+  width: 100%;
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+}
+.text
+{
+  margin: auto;
+  padding: 5px;
+  border: 2px;
+  background-color: bisque;
+
+}
+.border
+{
+  height: auto;
+  width: 100%;
+}
+
+.navbar{
+  background-color:gray;
+  font-family:Arial, Helvetica, sans-serif ;
+  padding: 5px;
+  margin: auto;
+  width: 100%;
+  
+}
+#checkbtn{
+  float: right;
+  color: antiquewhite;
+}
+
+.nav
+{
+  display: flex;
+  align-items: center;
+
+}
+nav ul{
+  float: right;
+}
+
+.logo
+{
+  font-size: 35px;
+  color:black;
+  font-family: cursive;
+  padding-left: 6px;
+  padding-right: 6px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: antiquewhite;
+}
+
+li{
+  list-style: none;
+  display: inline-block;
+  color: antiquewhite;
+  font-size: large;
+  margin-left: 10px;
+  margin-right: 10px;
+  ;
+}
+
+li a{
+  color: antiquewhite;
+}
+
+button{
+  display: inline-block;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
+
+
